@@ -1,0 +1,3 @@
+# Attention layers
+NUM_ENCODE_BLOCKS = 6
+NUM_DECODE_BLOCKS = 6
